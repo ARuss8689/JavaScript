@@ -1,0 +1,17 @@
+#clock {
+	border: 10px solid blue;
+	background-color: yellow;
+	font-family: fantasy;
+	color: black;
+	font-size: 50px;
+	padding: 20px;
+	border-radius: 10px;
+}
+.myclock {
+	text-align: center;
+	font-size: 100px;
+	font-family: fantasy;
+	padding-top: 50px;
+	color: white;
+
+}
